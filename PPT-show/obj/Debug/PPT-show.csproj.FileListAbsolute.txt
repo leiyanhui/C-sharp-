@@ -1,0 +1,11 @@
+D:\001-learn\C#\PPT-show\bin\Debug\PPT-show.exe.config
+D:\001-learn\C#\PPT-show\bin\Debug\PPT-show.exe
+D:\001-learn\C#\PPT-show\bin\Debug\PPT-show.pdb
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.csproj.AssemblyReference.cache
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.csproj.SuggestedBindingRedirects.cache
+D:\001-learn\C#\PPT-show\obj\Debug\PPT_show.FormMain.resources
+D:\001-learn\C#\PPT-show\obj\Debug\PPT_show.Properties.Resources.resources
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.csproj.GenerateResource.cache
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.exe
+D:\001-learn\C#\PPT-show\obj\Debug\PPT-show.pdb

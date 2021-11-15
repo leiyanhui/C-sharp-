@@ -1,0 +1,14 @@
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\Day04_operator.exe
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\Day04_operator.deps.json
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\Day04_operator.runtimeconfig.json
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\Day04_operator.dll
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\ref\Day04_operator.dll
+D:\001-learn\C#\learn\Day04_operator\bin\Debug\net6.0\Day04_operator.pdb
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.AssemblyInfoInputs.cache
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.AssemblyInfo.cs
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.dll
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\ref\Day04_operator.dll
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.pdb
+D:\001-learn\C#\learn\Day04_operator\obj\Debug\net6.0\Day04_operator.genruntimeconfig.cache

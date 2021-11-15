@@ -1,0 +1,15 @@
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\Day0702.exe
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\Day0702.deps.json
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\Day0702.runtimeconfig.json
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\Day0702.dll
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\ref\Day0702.dll
+D:\001-learn\C#\learn\Day0702\bin\Debug\net6.0\Day0702.pdb
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.csproj.AssemblyReference.cache
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.AssemblyInfoInputs.cache
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.AssemblyInfo.cs
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.dll
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\ref\Day0702.dll
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.pdb
+D:\001-learn\C#\learn\Day0702\obj\Debug\net6.0\Day0702.genruntimeconfig.cache
