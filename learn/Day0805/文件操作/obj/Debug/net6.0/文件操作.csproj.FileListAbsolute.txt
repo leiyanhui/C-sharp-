@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\文件操作.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\文件操作.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\文件操作.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\文件操作.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\ref\文件操作.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\bin\Debug\net6.0\文件操作.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\ref\文件操作.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\文件操作\obj\Debug\net6.0\文件操作.genruntimeconfig.cache

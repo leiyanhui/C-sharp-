@@ -33,6 +33,8 @@ namespace Day0702
 
 
 
+
+
         public void getValue(out int x)
         {
             int temp = 5;

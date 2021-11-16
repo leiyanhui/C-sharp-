@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea47d64-c8c2-4eaf-a2bf-a66025505f26": {
+      "ProjectGuid": "dea47d64-c8c2-4eaf-a2bf-a66025505f26",
+      "DisplayName": "运算符重载",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

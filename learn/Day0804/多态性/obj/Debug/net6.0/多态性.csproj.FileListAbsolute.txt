@@ -1,0 +1,15 @@
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\多态性.exe
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\多态性.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\多态性.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\多态性.dll
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\ref\多态性.dll
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\bin\Debug\net6.0\多态性.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.csproj.AssemblyReference.cache
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.dll
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\ref\多态性.dll
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0804\多态性\obj\Debug\net6.0\多态性.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\classPro.exe
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\classPro.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\classPro.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\classPro.dll
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\ref\classPro.dll
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\bin\Debug\net6.0\classPro.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.dll
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\ref\classPro.dll
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0801\classPro\obj\Debug\net6.0\classPro.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\预处理指令.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\预处理指令.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\预处理指令.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\预处理指令.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\ref\预处理指令.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\bin\Debug\net6.0\预处理指令.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\ref\预处理指令.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\预处理指令\obj\Debug\net6.0\预处理指令.genruntimeconfig.cache

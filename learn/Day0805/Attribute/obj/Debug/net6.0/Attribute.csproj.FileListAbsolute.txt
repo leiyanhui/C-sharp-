@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\Attribute.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\Attribute.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\Attribute.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\Attribute.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\ref\Attribute.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\bin\Debug\net6.0\Attribute.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\ref\Attribute.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\Attribute\obj\Debug\net6.0\Attribute.genruntimeconfig.cache

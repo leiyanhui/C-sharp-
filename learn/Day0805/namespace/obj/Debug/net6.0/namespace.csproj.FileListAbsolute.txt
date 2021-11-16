@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\namespace.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\namespace.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\namespace.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\namespace.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\ref\namespace.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\bin\Debug\net6.0\namespace.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\ref\namespace.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\namespace\obj\Debug\net6.0\namespace.genruntimeconfig.cache

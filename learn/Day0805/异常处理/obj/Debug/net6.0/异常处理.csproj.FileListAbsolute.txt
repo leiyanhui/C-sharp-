@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\异常处理.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\异常处理.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\异常处理.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\异常处理.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\ref\异常处理.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\bin\Debug\net6.0\异常处理.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\ref\异常处理.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\异常处理\obj\Debug\net6.0\异常处理.genruntimeconfig.cache

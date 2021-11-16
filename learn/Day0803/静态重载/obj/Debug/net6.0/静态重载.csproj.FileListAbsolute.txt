@@ -1,0 +1,14 @@
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\静态重载.exe
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\静态重载.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\静态重载.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\静态重载.dll
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\ref\静态重载.dll
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\bin\Debug\net6.0\静态重载.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.dll
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\ref\静态重载.dll
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0803\静态重载\obj\Debug\net6.0\静态重载.genruntimeconfig.cache

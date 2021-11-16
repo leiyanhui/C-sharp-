@@ -2,7 +2,7 @@
 
 
 using System;
-
+using ArrayApplication;
 
 
 namespace CalcuteApplication {
@@ -52,7 +52,7 @@ namespace CalcuteApplication {
 
     class Test {
 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             // 局部变量定义
 
@@ -74,8 +74,8 @@ namespace CalcuteApplication {
             Console.WriteLine("7 的阶乘是： {0}", n2.factory(7));
             Console.WriteLine("8 的阶乘是： {0}", n2.factory(8));
             Console.WriteLine("50 的阶乘是： {0}", n2.factory(50));
-            Console.ReadLine();
-        }
+
+        }*/
 
     }
 }
