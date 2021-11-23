@@ -1,0 +1,15 @@
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\EventTest.exe
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\EventTest.deps.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\EventTest.runtimeconfig.json
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\EventTest.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\ref\EventTest.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\bin\Debug\net6.0\EventTest.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.csproj.AssemblyReference.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.AssemblyInfoInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.AssemblyInfo.cs
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.csproj.CoreCompileInputs.cache
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\ref\EventTest.dll
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.pdb
+D:\001-learn\C#\C-sharp-\learn\Day0805\EventTest\obj\Debug\net6.0\EventTest.genruntimeconfig.cache
